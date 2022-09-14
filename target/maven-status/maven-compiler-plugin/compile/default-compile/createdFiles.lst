@@ -1,0 +1,9 @@
+core\elements\WebElementCollection.class
+ui\pages\VitePage.class
+core\elements\Input.class
+core\browser\Browser.class
+core\TestRunner.class
+core\browser\BrowserType.class
+core\TestRunner$1.class
+ui\controls\ViteUI.class
+ui\Application.class
